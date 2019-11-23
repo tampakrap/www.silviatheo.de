@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://www.silviatheo.de/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.silviatheo.de/cz/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.silviatheo.de/de/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.silviatheo.de/en/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.silviatheo.de/es/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.silviatheo.de/gr/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-11-22</lastmod>
+  </url>
+</urlset>
